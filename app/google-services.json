@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "502758126074",
+    "firebase_url": "https://cyber-cops-b7b77.firebaseio.com",
+    "project_id": "cyber-cops-b7b77",
+    "storage_bucket": "cyber-cops-b7b77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502758126074:android:67fdeeeebb93924602b443",
+        "android_client_info": {
+          "package_name": "com.example.panic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502758126074-3rtnfji8tejsh18nr8hfi24u0h0frr6m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.panic",
+            "certificate_hash": "08cba090c6aee04f6037bdd335198ef92dba9c7d"
+          }
+        },
+        {
+          "client_id": "502758126074-ksnhjnar2f5911u11qjno0v7987ju17t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ5sOFxmuImHZV6fQW3VS25JNetaZ3j3w"
+        },
+        {
+          "current_key": "AIzaSyCb8tClcJ8RwOto2mKwsZtBje7LhpV6u1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502758126074-ksnhjnar2f5911u11qjno0v7987ju17t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502758126074:android:443a4e8da4b5118a02b443",
+        "android_client_info": {
+          "package_name": "com.sk.cyber_cop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502758126074-83flru35gn6osg8e2vfoa14gjto1n6pn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sk.cyber_cop_app",
+            "certificate_hash": "f82fb72dcbd1c05af4f00e625db512b422d0c23c"
+          }
+        },
+        {
+          "client_id": "502758126074-sb2d0mpapi0ueomr7i58oesi2anlfki7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sk.cyber_cop_app",
+            "certificate_hash": "9ca53b956397b6332ceace9f36ff382b8fca2814"
+          }
+        },
+        {
+          "client_id": "502758126074-e7uoa05kc984m2u417v2khmv54od1qrg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sk.cyber_cop_app",
+            "certificate_hash": "a50186896c44721e1ef5d5b23b35bece4dc8566a"
+          }
+        },
+        {
+          "client_id": "502758126074-bcc60haihblq5k7ep24vejhc0s9m4fas.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sk.cyber_cop_app",
+            "certificate_hash": "dff725d1994d23be6c17b1f20c49574737fda545"
+          }
+        },
+        {
+          "client_id": "502758126074-ksnhjnar2f5911u11qjno0v7987ju17t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ5sOFxmuImHZV6fQW3VS25JNetaZ3j3w"
+        },
+        {
+          "current_key": "AIzaSyCb8tClcJ8RwOto2mKwsZtBje7LhpV6u1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502758126074-ksnhjnar2f5911u11qjno0v7987ju17t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
